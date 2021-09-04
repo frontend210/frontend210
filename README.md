@@ -71,8 +71,8 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 
 **Talking about Personal Stuffs:**
 - 👨🏻‍💻 I’m always looking for new challenges;
+- 👯 I’m constantly looking to collaborate on something cool projects
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
 - 📫 How to reach me: sr.frontenddev210@gmail.com;
 - 📝 [Resume - comming soon]().
 
