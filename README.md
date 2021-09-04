@@ -3,10 +3,10 @@
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ### Tech Stack
-- React.js w/ Typescript (Next.js, Gatsby.js)
-- Angular, Universal (Angular Universal, SEO-friendly static Website using SSR, Prerendering)
-- Redux, Context and Hooks API, Ngrx and Ngxs
 - Node.js (Express.js, Nest.js)
+- Angular, Universal (Angular Universal, SEO-friendly static Website using SSR, Prerendering)
+- React.js w/ Typescript (Next.js, Gatsby.js)
+- Redux, Context and Hooks API, Ngrx and Ngxs
 - PHP (Laravel, Symfony)
 - Python (Django)
 - .Net Core, Entity Framework
