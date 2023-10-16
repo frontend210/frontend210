@@ -4,22 +4,23 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 
 ### Tech Stack
 - Node.js (Express.js, Nest.js)
-- Angular, Universal (Angular Universal, SEO-friendly static Website using SSR, Prerendering)
+- Angular (Angular Universal, SEO-friendly static Website using SSR, Prerendering)
 - React.js w/ Typescript (Next.js, Gatsby.js)
-- Redux, Context and Hooks API, Ngrx and Ngxs
-- PHP (Laravel, Symfony)
+- Redux, Context, and Hooks API, Ngrx and Ngxs
+- PHP (Laravel)
 - Python (Django)
-- .Net Core, Entity Framework
 
-### Other Technologies I Know And Constantly Work With
+### Recent Interest
+- .Net Core, Entity Framework, and Domain-Driven Design
+
+### Other Technologies I Worked With Before and Love to use
 - Blockchain (Ethereum, ERC20, ERC721, Smart Contract, Defi, NFT)
 - AWS, Firebase and Azure
 - PostgreSQL, MySQL, MongoDB, Sequelize, Mongoose, RabbitMQ, MQTT, Pgboss, Socket.io
 - CircleCI, Bitbucket Pipeline, Azure DevOps
-- Linux, Web fundamental, Security best practices, Nginx/Apache
+- Linux, Web fundamentals, Security best practices, Nginx/Apache
 - Sass, Tailwind CSS, Material-UI, Ant Design and PrimeNG
 - Plotly.js, Leaflet map
-- Vue.js, Preact and Svelte
 
 ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=plastic&logo=typescript&logoColor=white&color=3178C6)
