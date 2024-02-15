@@ -71,7 +71,7 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 - 👨🏻‍💻 I’m always looking for new challenges;
 - 👯 I’m constantly looking to collaborate on something cool projects
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: sr.frontenddev210@gmail.com, fullstack228@gmail.com;
+- 📫 How to reach me: sr.frontenddev210@gmail.com, fullstackdeveloper228@gmail.com;
 - 📝 [Resume - comming soon]().
 
 <!--
