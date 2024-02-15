@@ -3,24 +3,21 @@
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ### Tech Stack
-- Node.js (Express.js, Nest.js)
-- Angular (Angular Universal, SEO-friendly static Website using SSR, Prerendering)
-- React.js w/ Typescript (Next.js, Gatsby.js)
-- Redux, Context, and Hooks API, Ngrx and Ngxs
-- PHP (Laravel)
-- Python (Django)
+- ES6+, Typescript, C#, PHP
+- Node.js, Express.js, Nest.js
+- .NET 6+, ASP.NET Core
+- Angular, RxJS, NgRX, NgXS, Angular Material
+- React.js, RTK, Material UI, Tailwind CSS, Tanstack
+- AWS, Azure, Firebase
+- PostgreSQL, MySQL, MongoDB, AWS DynamoDB, Redis
+- EF Core, Dapper, TypeORM, Sequelize
+- Docker
+- Blockchain (Ethereum, ERC20, ERC721, Smart Contract, Defi, NFT)
+- Stripe, Escrow
 
 ### Recent Interest
-- .Net Core, Entity Framework, and Domain-Driven Design
+- .Net 8 technologies, EF Core, and Domain-Driven Design, Clean Architecture, CQRS
 
-### Other Technologies I Worked With Before and Love to use
-- Blockchain (Ethereum, ERC20, ERC721, Smart Contract, Defi, NFT)
-- AWS, Firebase and Azure
-- PostgreSQL, MySQL, MongoDB, Sequelize, Mongoose, RabbitMQ, MQTT, Pgboss, Socket.io
-- CircleCI, Bitbucket Pipeline, Azure DevOps
-- Linux, Web fundamentals, Security best practices, Nginx/Apache
-- Sass, Tailwind CSS, Material-UI, Ant Design and PrimeNG
-- Plotly.js, Leaflet map
 
 ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=plastic&logo=typescript&logoColor=white&color=3178C6)
@@ -74,7 +71,7 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 - 👨🏻‍💻 I’m always looking for new challenges;
 - 👯 I’m constantly looking to collaborate on something cool projects
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: sr.frontenddev210@gmail.com;
+- 📫 How to reach me: sr.frontenddev210@gmail.com, fullstack228@gmail.com;
 - 📝 [Resume - comming soon]().
 
 <!--
