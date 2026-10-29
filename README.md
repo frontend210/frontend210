@@ -19,7 +19,7 @@ My work spans customer portals, reusable frontend modules, backend services, ent
 ### Current Focus
 - Specification-driven agentic development
 - ML software engineering, MLOps
-- Research on foundational and cutting-edge technologies for LLM, Self-Attention, Transformer, 
+- Research on foundational theory and cutting-edge technologies for LLM, Self-Attention, Transformer, Agentic AI, RAG, Fine-Tuning, Harness
 - ETL/ELT, Data Platform Engineering and Big Data skills
 
 
