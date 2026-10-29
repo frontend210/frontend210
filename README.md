@@ -1,22 +1,26 @@
-### Hi there, I am a Javascript Engineer. 👋
+### Software Engineer | Full-stack development, data engineering & ML/MLOps | Building maintainable systems with Python, TypeScript & .NET | Exploring agentic development 👋
 
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+I'm a software engineer with experience across full-stack development, technical leadership, data engineering, and ML/MLOps. I enjoy turning complex requirements and experimental code into maintainable software.
+My work spans customer portals, reusable frontend modules, backend services, enterprise data pipelines, and photovoltaic forecasting. More recently, I’ve led specification-driven agentic development, owning requirements, acceptance criteria, and code review.
 
 ### Tech Stack
-- ES6+, Typescript, C#, PHP
-- Node.js, Express.js, Nest.js
-- .NET 6+, ASP.NET Core
-- Angular, RxJS, NgRX, NgXS, Angular Material
-- React.js, RTK, Material UI, Tailwind CSS, Tanstack
-- AWS, Azure, Firebase
-- PostgreSQL, MySQL, MongoDB, AWS DynamoDB, Redis
-- EF Core, Dapper, TypeORM, Sequelize
-- Docker
-- Blockchain (Ethereum, ERC20, ERC721, Smart Contract, Defi, NFT)
-- Stripe, Escrow
+- PyTorch, Tensorflow, Torch Lightning, Torch Spatiotemporal(TSL), Graph Neural Networks, Pandas, Numpy, SciPy
+- MLflow, Ray, Optuna
+- Databricks, Snowflake, Apache Spark, Apache Airflow, ETL/ELT
+- PostgreSQL, MySQL, DynamoDB, MSSQL, EF Core, Sequelize
+- AWS, Azure, Docker
+- Python, TypeScript, C#, SQL
+- .NET, ASP.NET Core, Blazor, Domain-Driven Design, Clean Architecture, and CQRS
+- React, Redux, Angular, RxJS
+- Node.js, Express.js, NestJS, FastAPI
+- OOP, DDD, Functional Programming
 
-### Recent Interest
-- .Net 8 technologies, EF Core, and Domain-Driven Design, Clean Architecture, CQRS
+### Current Focus
+- Specification-driven agentic development
+- ML software engineering, MLOps
+- Research on foundational and cutting-edge technologies for LLM, Self-Attention, Transformer, 
+- ETL/ELT, Data Platform Engineering and Big Data skills
 
 
 ![](https://img.shields.io/badge/Lang-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=F7DF1E)
